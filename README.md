@@ -1,2 +1,5 @@
 # odin-recipes
-Practicing basic HTML and proper Git commit messages.
+A simple, brutalist recipe web page.
+
+This repository is used to practice basic HTML
+and proper Git commit messages.
