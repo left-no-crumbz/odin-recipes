@@ -30,7 +30,7 @@ nav {
 
 .logo-container {
     display: flex;
-    width: 300px;
+    margin-right: auto;
     align-items: center;
 }
 .logo {
@@ -43,9 +43,9 @@ nav {
 }
 
 .navbar {
-    width: 100%;
-    margin: 30px;
+    margin: 20px;
     display: flex;
+    justify-content: flex-end;
     align-items: center;
     gap: 2rem;
 }
@@ -53,10 +53,6 @@ nav {
 /* Using descendant combinator for fun */
 .navbar .nav-items {
     list-style: none;
-}
-
-.home {
-    margin-left: auto;
 }
 
 .main-container {
